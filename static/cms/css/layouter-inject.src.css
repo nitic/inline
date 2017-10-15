@@ -1,0 +1,222 @@
+.inlinecms.picker-cursor {
+	position:absolute;
+	z-index:99998;
+	background:rgba(52, 152, 219,0.65);
+	border:solid 1px #2980b9;
+}
+
+.inlinecms.picker-cursor .path-hint {
+    position: relative;
+    height: 20px;
+    line-height: 20px;
+    top:-20px;
+    background-color: #2980b9;
+    color: #FFF;
+    padding: 0 8px;
+    font-size: 11px;
+    display: inline-block;
+    float: right;
+    left:1px;
+    white-space: nowrap;
+}
+
+.inlinecms.picker-cursor .path-hint.bottom {
+    top:100%;
+}
+
+.inlinecms.picker-cursor.picker-menu {
+    background:rgba(155, 89, 182,0.35);
+    border:solid 1px #8e44ad;
+}
+
+.inlinecms.picker-cursor.picker-menu .path-hint {
+    background-color: #8e44ad;
+}
+
+.inlinecms-menu-item {
+    outline: dashed 1px #8e44ad;
+    box-shadow: 0 0 10px #8e44ad;
+}
+
+.inlinecms-region{
+	outline: dashed 1px #27ae60;
+	box-shadow: 0 0 10px #2ecc71;
+    position:relative;
+    overflow: hidden;
+}
+
+.inlinecms-region-fixed{
+    outline: dashed 1px #3498db;
+    box-shadow: 0 0 10px #3498db;
+}
+
+.inlinecms-region-collection{
+    outline: dashed 1px #8e44ad;
+    box-shadow: 0 0 10px #8e44ad;
+}
+
+.inlinecms-region-collection > * {
+    outline: dotted 1px #8e44ad;
+}
+
+.inlinecms-menu{
+	outline: dashed 1px #f39c12;
+	box-shadow: 0 0 10px #f39c12;
+    position:relative;
+    overflow: hidden;
+}
+
+.inlinecms-region .inline-label,
+.inlinecms-menu .inline-label {
+	position: absolute;
+	left:0;
+	top:0;
+    background:#16a085;
+    color:#FFF;
+    height:20px;
+    line-height:20px;
+    padding:0 10px;
+    font-size:12px;
+    outline: none;
+}
+
+.inlinecms-region-fixed .inline-label {
+    background: #3498db;
+}
+
+.inlinecms-region-collection .inline-label {
+    background: #8e44ad;
+}
+
+.inlinecms-menu .inline-label {
+    background: #f39c12;
+}
+
+.inlinecms-region .inline-toolbar,
+.inlinecms-menu .inline-toolbar {
+	position: absolute;
+	right:0;
+	top:0;
+	display: none;
+    outline: none;
+}
+
+.inlinecms-region:hover .inline-toolbar,
+.inlinecms-region:focus .inline-toolbar,
+.inlinecms-menu:hover .inline-toolbar,
+.inlinecms-menu:focus .inline-toolbar{
+	display:block;
+}
+
+.inlinecms-region .inline-toolbar .button,
+.inlinecms-menu .inline-toolbar .button {
+	width: 24px;
+	min-width: 24px;
+	height: 24px;
+	min-height: 24px;
+	line-height: 24px;
+	text-align:center;
+	font-size:14px;
+	color:#FFF;
+	background: #27ae60;
+	border:none;
+	border-radius: 0;
+	padding:0;
+	margin:0;
+	margin-left: 2px;
+	font-weight:normal;
+	box-shadow:none;
+	cursor:pointer;
+	z-index: 100;
+    float:left;
+	transition: background 0.3s;
+}
+
+.inlinecms-region .inline-toolbar .button:hover,
+.inlinecms-menu .inline-toolbar .button:hover {
+	background:#2ecc71;
+}
+
+.inlinecms-region .inline-toolbar .b-move,
+.inlinecms-menu .inline-toolbar .b-move {
+	cursor:move;
+}
+
+.inlinecms-region .inline-toolbar .b-delete,
+.inlinecms-menu .inline-toolbar .b-delete {
+	background:#c0392b;
+}
+
+.inlinecms-region .inline-toolbar .b-delete:hover,
+.inlinecms-menu .inline-toolbar .b-delete:hover {
+	background:#e74c3c;
+}
+
+#inlinecms-context-menu{
+    position:absolute;
+    display:none;
+    z-index:99999;
+}
+
+#inlinecms-context-menu ul,
+#inlinecms-context-menu ul li {
+    margin:0;
+    padding:0;
+    color:#2c3e50;
+    list-style:none;
+}
+
+#inlinecms-context-menu ul{
+    background:#FFF;
+    box-shadow: 0px 0px 5px #000;
+}
+
+#inlinecms-context-menu ul li {
+    height:30px;
+    line-height:30px;
+    padding:0 10px;
+    font-size:13px;
+    cursor: pointer;
+}
+
+#inlinecms-context-menu ul li:last-child {
+    border: none;
+}
+
+#inlinecms-context-menu ul li:hover {
+    background:#2980b9;
+    color:#FFF;
+}
+
+#inlinecms-context-menu ul li.disabled {
+    cursor:default;
+    color:#bdc3c7;
+}
+
+#inlinecms-context-menu ul li.disabled i {
+    color:#bdc3c7;
+}
+
+#inlinecms-context-menu ul li.disabled:hover {
+    background: inherit;
+}
+
+#inlinecms-context-menu ul li.separator {
+    height:0;
+    width: auto;
+    border-bottom:solid 1px #bdc3c7;
+}
+
+#inlinecms-context-menu ul li.separator:first-child,
+#inlinecms-context-menu ul li.separator:last-child {
+    display:none;
+}
+
+#inlinecms-context-menu ul li i {
+    width:16px;
+    color:#2980b9;
+}
+
+#inlinecms-context-menu ul li:hover i {
+    color:#a4c3d8;
+}

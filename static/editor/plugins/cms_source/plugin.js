@@ -1,0 +1,1 @@
+CKEDITOR.plugins.add("cms_source",{init:function(a){a.ui.addButton("source",{label:"HTML",command:"insertSource",toolbar:"forms,0"});a.addCommand("insertSource",{exec:function(b){parent.cms.showSourceDialog({html:b.getData()},function(c){b.setData(c)})}})}});

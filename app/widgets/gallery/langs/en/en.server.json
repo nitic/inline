@@ -1,0 +1,19 @@
+{
+	"galleryImages": "Images",
+	"galleryDetails": "Details",
+	"galleryUpload": "Add images",
+	"galleryThumbnails": "Thumbnails Size",
+	"galleryThumbnailsSquare": "Crop square",
+    "galleryImagesList": "Gallery Images",
+	"galleryImageTitle": "Image Title",
+	"galleryImageOpen": "Open images in",
+	"galleryImageOpenLightbox": "Lightbox",
+	"galleryImageOpenTab": "New browser tab",
+	"galleryImageTitles": "Show Images Titles",
+	"galleryCenter": "Align images at the center",
+	"galleryStyle": "Gallery Style",
+	"galleryStyleRounded": "Rounded Corners",
+	"galleryStyleCircle": "Round",
+	"galleryStyleFrame": "Frame",
+	"galleryStyleShadowFrame": "Frame with shadow"
+}

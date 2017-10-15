@@ -1,0 +1,23 @@
+{
+	"formFields": "Fields",
+	"formSettings": "Settings",
+    "formStyle": "Style",
+	"formFieldAdd": "Add field",
+	"formFieldTypeText": "Short Text",
+	"formFieldTypeEmail": "E-mail",
+	"formFieldTypeTextarea": "Long Text",
+	"formFieldTypeCheckbox": "Checkbox",
+	"formFieldMandatory": "This field is mandatory",
+	"formFieldMandatorySet": "Set field as mandatory",
+	"formFieldTitle": "Field Title",
+	"formThanksMessage": "Show message after submitting",
+	"formSubmit": "Submit Button Title",
+	"formEmail": "Send form to",
+	"formEmailDefault": "Administrator: %s",
+	"formEmailCustom": "Custom E-mail",
+	"formEmailCustomEnter": "Enter E-mail address",
+    "formSubject": "Message Subject",
+	"formLabelsAlign": "Align Labels",
+	"formLabelsAlignVert": "Vertically",
+	"formLabelsAlignHor": "Horizontally"
+}

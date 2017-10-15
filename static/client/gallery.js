@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".inlinecms-gallery.lightbox .image a").abigimage({onopen:function(a){this.bottom.html($(a).attr("title"))}})});

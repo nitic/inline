@@ -1,0 +1,5 @@
+{
+	"codePhpFile": "Подключить PHP файл",
+	"codePhpFileHint": "Имя файла из папки <strong>/app/custom</strong>",
+	"codePhpFileSample": "См. <strong>/app/custom/sample.php</strong> для примера"
+}

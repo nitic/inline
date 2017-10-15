@@ -1,0 +1,19 @@
+{
+	"galleryImages": "Изображения",
+	"galleryDetails": "Опции",
+	"galleryUpload": "Добавить изображения",
+	"galleryThumbnails": "Размер маленьких копий",
+	"galleryThumbnailsSquare": "Квадратные",
+    "galleryImagesList": "Изображения в галерее",
+	"galleryImageTitle": "Название изображения",
+	"galleryImageOpen": "Открывать изображения",
+	"galleryImageOpenLightbox": "Во всплывающем окне",
+	"galleryImageOpenTab": "В новой вкладке браузера",
+	"galleryImageTitles": "Показывать названия изображений",
+    "galleryCenter": "Выровнять изображения по центру",
+	"galleryStyle": "Стиль галереи",
+	"galleryStyleRounded": "Закругленный",
+	"galleryStyleCircle": "Круглый",
+	"galleryStyleFrame": "Рамка",
+	"galleryStyleShadowFrame": "Рамка с тенью"
+}

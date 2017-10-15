@@ -1,0 +1,49 @@
+InlineCMS distribution includes third-party tools and libraries.
+Corresponding licenses can be found in /app/licenses/ folder.
+
+    - Ganon, by Niels A.D.
+        http://code.google.com/p/ganon/
+        Artistic/GPL license
+
+    - Zebra Image, by Stefan Gabos
+        http://stefangabos.ro/php-libraries/zebra-image/
+        LGPL 3.0 license
+
+    - PHPMailer, by Brent R. Matzelle, Andy Prevost, Jim Jagielski, Marcus Bointon
+        https://github.com/PHPMailer/PHPMailer/
+        LGPL 3.0 license
+
+    - CKEditor, by CKSource, Frederico Knabben
+        http://ckeditor.com/
+        LGPL 3.0 license
+
+    - Font Awesome, by Dave Gandy
+        http://fontawesome.io/
+        SIL Open Font License, MIT license
+
+    - jQuery + jQuery UI, by The jQuery Foundation
+        http://jquery.com/
+        http://jqueryui.com/
+        MIT license
+
+    - jsTree, by Ivan Bozhanov
+        http://jstree.com/
+        MIT license
+
+    - jQuery Clipboard, by Valérian Saliou and SteamDev
+        https://github.com/valeriansaliou/jquery.clipboard/
+        MIT license
+
+    - jQuery File Upload, by Sebastian Tschan
+        https://blueimp.github.io/jQuery-File-Upload/
+        MIT license
+
+    - normalize.css, by Nicolas Gallagher and Jonathan Neal
+        https://github.com/necolas/normalize.css
+        MIT license
+
+	- ABigImage, by Maksim Krylosov
+		https://github.com/Aequiternus/ABigImage
+		Mozilla Public License, v. 2.0
+
+

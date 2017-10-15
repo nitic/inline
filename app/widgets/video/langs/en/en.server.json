@@ -1,0 +1,7 @@
+{
+	"videoUrl": "Video URL",
+	"videoSize": "Video player size",
+	"videoRatio16": "16:9",
+	"videoRatio4": "4:3",
+	"videoUnknown": "Sorry, we can't insert video from that source. Please use one of following sources: %s"
+}

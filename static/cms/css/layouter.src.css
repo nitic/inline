@@ -1,0 +1,45 @@
+#inlinecms-panel .pane {
+    height: auto;
+    padding:10px;
+}
+
+#inlinecms-panel .picker-hint ul,
+#inlinecms-panel .picker-hint ul li {
+    padding:0; margin:0;
+    font-size:12px;
+    list-style:none;
+    text-align: center;
+    color:#7f8c8d;
+}
+
+#inlinecms-panel .picker-hint{
+    padding-top:0;
+}
+
+#inlinecms-panel .picker-hint ul li {
+    margin-top: 2px;
+}
+
+#inlinecms-panel #layout-selector {
+    width:255px;
+    font-size:14px;
+}
+
+#inlinecms-panel #update-layout {
+    display: inline-block;
+    float:right;
+    height:20px;
+    line-height:20px;
+    width:20px;
+    text-align: center;
+    background:#27ae60;
+    color:#FFF;
+    border-radius: 50%;
+    font-size:12px;
+    margin-top:4px;
+    outline: none !important;
+}
+
+#inlinecms-panel #update-layout:hover {
+    background:#d35400;
+}

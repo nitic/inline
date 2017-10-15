@@ -1,0 +1,12 @@
+{
+    "widgetTitle_text": "Текст",
+    "widgetTitle_map": "Карта",
+    "widgetTitle_image": "Изображение",
+    "widgetTitle_gallery": "Галерея",
+    "widgetTitle_form": "Контактная форма",
+    "widgetTitle_video": "Видео",
+    "widgetTitle_file": "Файл",
+    "widgetTitle_spacer": "Промежуток",
+    "widgetTitle_code": "Код",
+    "widgetTitle_share": "Социальные кнопки"
+}

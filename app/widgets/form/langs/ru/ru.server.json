@@ -1,0 +1,21 @@
+{
+	"formFields": "Поля",
+	"formSettings": "Параметры",
+	"formFieldAdd": "Добавить поле",
+	"formFieldTypeText": "Строка",
+	"formFieldTypeEmail": "E-mail",
+	"formFieldTypeTextarea": "Текст",
+	"formFieldTypeCheckbox": "Галочка",
+	"formFieldMandatorySet": "Сделать поле обязательным",
+	"formFieldTitle": "Название поля",
+	"formThanksMessage": "Показывать сообщение после отправки",
+	"formSubmit": "Заголовок кнопки отправки",
+	"formEmail": "Отправлять форму",
+	"formEmailDefault": "Администратору: %s",
+	"formEmailCustom": "На указанный адрес",
+	"formEmailCustomEnter": "Укажите адрес для отправки",
+    "formSubject": "Тема письма",
+	"formLabelsAlign": "Распологать заголовки полей",
+	"formLabelsAlignVert": "Вертикально",
+	"formLabelsAlignHor": "Горизонтально"
+}

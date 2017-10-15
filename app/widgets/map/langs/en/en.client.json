@@ -1,0 +1,6 @@
+{
+	"title": "Map",
+	"address": "Address",
+	"addressEnter": "Enter full Address of location",
+	"addressError": "Google Maps can't find coordinates for this address"
+}

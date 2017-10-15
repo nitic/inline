@@ -1,0 +1,10 @@
+{
+    "mapMarkerPos": "Marker Position",
+    "mapMarkerTitle": "Marker Hint Text",
+	"mapLat": "Latitude",
+	"mapLng": "Longitude",
+    "mapFindPosByAddress": "Find by Address",
+	"mapSize": "Map Size",
+	"mapZoom": "Map Zoom Level (1..21)",
+	"mapZoomLevel": "Zoom"
+}

@@ -1,0 +1,5 @@
+{
+	"codePhpFile": "Custom PHP File",
+	"codePhpFileHint": "File in <strong>/app/custom</strong> folder",
+	"codePhpFileSample": "View <strong>/app/custom/sample.php</strong> for the sample script"
+}
